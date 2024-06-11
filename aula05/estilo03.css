@@ -1,0 +1,18 @@
+<style>
+        /* Estilos CSS para as divs */
+        .container {
+            width: 80%;
+            margin: 0 auto;
+            text-align: justify;
+        }
+        .dica {
+            background-color: #ad89e7;
+            padding: 20px;
+            margin-bottom: 20px;
+        }
+        /* Estilos CSS para o span */
+        .destaque {
+            font-weight: bold;
+            color: rgb(255, 255, 255);
+        }
+    </style>

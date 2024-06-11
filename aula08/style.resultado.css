@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color:rgb(134, 43, 238);
+    text-align: center;
+}
+
+.result {
+    background-color: rgb(114, 54, 255);
+    padding: 20px;
+    border: 1px solid rgb(124, 56, 250);
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgb(231, 231, 231);
+    (0, 0, 0, 0.1);
+    width: 300px;
+}

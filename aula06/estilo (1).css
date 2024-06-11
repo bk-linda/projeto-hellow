@@ -1,0 +1,18 @@
+p{
+    color: rgb(0, 0, 0);
+    background-color: rgb(179, 100, 253);
+    font-family: verdana;
+    font-size: 300%;
+    border:solid black 2px;
+}
+h1{
+    color: black;
+    background-color: rgb(181, 131, 247);
+    font-family: courier;
+    font-size: 160%;
+    border-radius: 20px 30px 20px 0;
+}
+body{
+    background-color: rgb(157, 55, 252);
+    color: black;
+}
